@@ -17,3 +17,6 @@ members:
   # 원격에서 타이거 파일을 수정했음
 
   - 로컬 뉴브랜치 타이거파일 커밋발생
+  - git config --local user.name 알아보기
+
+  - stash #1
